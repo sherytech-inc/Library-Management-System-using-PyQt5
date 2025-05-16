@@ -1,0 +1,3 @@
+PyQt5
+You need to install PyQt5 to run this code.
+pip install PyQt5
